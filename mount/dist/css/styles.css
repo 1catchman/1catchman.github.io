@@ -103,7 +103,7 @@
   }
 }
 .hero:before {
-  background: url('dist/images/bg-hero.jpg') no-repeat center center;
+  background: url('../images/bg-hero.jpg') no-repeat center center;
   background-size: cover;
   opacity: 0.6;
   content: '';
